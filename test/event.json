@@ -1,0 +1,15 @@
+{
+  "Records": [
+    {
+      "s3": {
+        "bucket": {
+          "name": "codeclinic-transcribe-podcast"
+        },
+        "object": {
+          "key": "6904154-001-tutorial-paralysis.mp3"
+        }
+      }
+    }
+  ]
+}
+
